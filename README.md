@@ -2,7 +2,6 @@
 
 **Emotion-aware AI bridging personal finance and investment & trading**
 
-IITK Global Case Competition 2025 — Technical Research Repository
 
 ---
 
@@ -17,7 +16,7 @@ The core insight: a trade is not just a financial event. It is the intersection 
 ## Repository structure
 
 ```
-IITK_CASE
+CaseComp
 │
 ├── Project_Notebook.ipynb          # Main research notebook — run this
 │
@@ -37,8 +36,8 @@ IITK_CASE
 ## Setup
 
 ```bash
-git clone https://github.com/Astha5487/IITK_CASE
-cd IITK_CASE
+git clone https://github.com/Astha5487/CaseComp
+cd CaseComp
 pip install -r requirements.txt
 ```
 
@@ -137,7 +136,7 @@ print(f"FRS: {frs}  ERS: {ers}  GAS: {gas}  →  {rec} ({composite:.1f}/100)")
 
 ## Survey data
 
-`IITK_Case_Comp__Responses_.xlsx` contains responses from 54 retail investors using Zerodha, Groww, and Upstox, collected April 2025.
+`Excel file` contains responses from 54 retail investors using Zerodha, Groww, and Upstox, collected April 2025.
 
 Key findings used in the analysis:
 - 41% sold or felt a strong urge to sell during a market crash
